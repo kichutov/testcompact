@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*.php
+Allow: /index.php
+Sitemap: https://testcompact.ru/sitemap.xml
+Host: https://testcompact.ru
